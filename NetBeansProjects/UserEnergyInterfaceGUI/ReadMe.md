@@ -1,1 +1,5 @@
 A user energy interface built in java that collects each user's data to calculate the amount of energy the user requires per day
+
+Project specifications:
+You are required to write a Java Application that uses an interactive Graphical User Interface (GUI) based on the JFrame class using SWING GUI components. You will also be designing and implementing the software solution using appropriate data structures and application of classes, inheritance, and exception handling. The case study for developing a solution is given below.
+The food consumption of a person is to meet the daily energy requirements. The energy requirement is estimated using a person’s age group, gender, height, weight, basal metabolic rate (BMR), and physical activity level (PAL). There are data available on estimated energy requirements for various PALs and BMR. So, by choosing the correct age group, gender, height and PAL, the energy requirements can be found from the data set. Use the given data file, as it contains the set of data.
